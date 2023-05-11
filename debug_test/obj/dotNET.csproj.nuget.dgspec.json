@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj": {}
+    "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj": {}
   },
   "projects": {
-    "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj": {
+    "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj",
+        "projectUniqueName": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj",
         "projectName": "dotNET",
-        "projectPath": "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj",
+        "projectPath": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj",
         "packagesPath": "/Users/mayukohayashi/.nuget/packages/",
-        "outputPath": "/Users/mayukohayashi/PersonalProjects/dotNET/obj/",
+        "outputPath": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mayukohayashi/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj",
+      "projectUniqueName": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj",
       "projectName": "dotNET",
-      "projectPath": "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj",
+      "projectPath": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj",
       "packagesPath": "/Users/mayukohayashi/.nuget/packages/",
-      "outputPath": "/Users/mayukohayashi/PersonalProjects/dotNET/obj/",
+      "outputPath": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mayukohayashi/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/bin/Debug/net7.0/dotNET
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/bin/Debug/net7.0/dotNET.deps.json
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/bin/Debug/net7.0/dotNET.runtimeconfig.json
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/bin/Debug/net7.0/dotNET.dll
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/bin/Debug/net7.0/dotNET.pdb
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.csproj.AssemblyReference.cache
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.AssemblyInfoInputs.cache
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.AssemblyInfo.cs
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.csproj.CoreCompileInputs.cache
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.dll
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/refint/dotNET.dll
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.pdb
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/dotNET.genruntimeconfig.cache
+/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/obj/Debug/net7.0/ref/dotNET.dll

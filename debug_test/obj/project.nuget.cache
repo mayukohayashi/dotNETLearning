@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cZIFQ2rQAGZ68ebmlTb/eO6CvfCoxC8mmGakfIphTETXH/T5zt5oFN08S5pzOdT6rj1JWpDyIvgkfs4ic0gkcw==",
+  "dgSpecHash": "k9b89Wh6FgQYoion6AgKup0CjY2GjCz7ZkhMsyC7xpHHwgZF/UFzi8/nCnDT+YvEtZeXzeZz0rlF7UOQC7fh6w==",
   "success": true,
-  "projectFilePath": "/Users/mayukohayashi/PersonalProjects/dotNET/dotNET.csproj",
+  "projectFilePath": "/Users/mayukohayashi/PersonalProjects/dotNET/debug_test/dotNET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
